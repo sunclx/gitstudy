@@ -19,3 +19,10 @@
     }
     ```
 2. teacher
+3. - a
+   - b
+   - c
+   - d
+   - e
+4. [google][g]
+[g]: google.com "Google"
