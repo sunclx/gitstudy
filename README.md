@@ -12,9 +12,10 @@
 ## 3.第三章
 
 1. hello 
-```go
-function(){
-    fmt.println("Hello World!")
-}
-```
+
+    ```go
+    function(){
+        fmt.println("Hello World!")
+    }
+    ```
 2. teacher
