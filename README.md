@@ -18,11 +18,16 @@
         fmt.println("Hello World!")
     }
     ```
+
 2. teacher
-3. - a
+3. 列表
    - b
    - c
    - d
    - e
 4. [google][g]
-[g]: google.com "Google"
+[g]: http://www.google.com "Google"
+5. [ ]no
+   [x]yes
+   [ ]no
+   
