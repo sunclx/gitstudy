@@ -27,7 +27,7 @@
    - e
 4. [google][g]
 [g]: http://www.google.com "Google"
-5. [ ]no
-   [x]yes
-   [ ]no
-   
+5. [ ] no
+   [x] yes
+   [ ] no
+
