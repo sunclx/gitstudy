@@ -1,1 +1,3 @@
 baseurl: /gitstudy
+kramdown:
+  input: GFM
